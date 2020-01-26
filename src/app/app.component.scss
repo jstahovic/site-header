@@ -1,0 +1,14 @@
+:host {
+  .site-header {
+    color: #0069ed;
+    display: flex;
+    flex-direction: row;
+    font-family: sans-serif;
+    justify-content: center;
+  }
+
+  .num-times-cust-button-clicked {
+    font-weight: 900;
+    padding-left: 1rem;
+  }
+}
